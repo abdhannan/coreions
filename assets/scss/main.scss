@@ -1,0 +1,12 @@
+/**
+* Import vendor
+*/
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
+/**
+* Import 
+* custom main file
+*/
+@import "helpers/helpers";
+@import "elements/elements";
+@import "sections/sections";
